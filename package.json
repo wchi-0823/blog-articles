@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/wchi-0823/blog-articles/issues"
   },
   "homepage": "https://github.com/wchi-0823/blog-articles#readme",
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "zenn-cli": "^0.4.7"
   },
   "devDependencies": {
