@@ -1,11 +1,11 @@
 ---
 title: はじめてのブログ記事
 tags:
-  - React
   - Next.js
+  - React
 private: false
-updated_at: '2026-04-06T01:12:33+09:00'
-id: 35a542aeebe3b40dcfa9
+updated_at: ''
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
